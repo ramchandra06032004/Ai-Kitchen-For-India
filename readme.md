@@ -8,6 +8,8 @@ AI Kitchen for India is an innovative project that leverages the power of machin
 - **KNN Algorithm**: Utilizes the K-Nearest Neighbors algorithm for accurate and efficient recipe matching.
 - **User-Friendly Interface**: Easy-to-navigate interface built with Streamlit, ensuring a seamless user experience.
 
+## Live on :- https://ai-kitchen-for-india-by-ramchandra.streamlit.app/
+
 ## Installation
 
 To set up the project environment, you will need Python and pip installed on your system. Follow the steps below to install the required libraries:
