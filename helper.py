@@ -1,7 +1,7 @@
 def get_diet_index(user_diet):
     dietary_preferences = ['Diabetic Friendly', 'Vegetarian', 'Eggetarian', 'Vegan',
                            'High Protein Vegetarian', 'No Onion No Garlic (Sattvic)',
-                           'Non Vegetarian', 'High Protein Non Vegetarian', 'Gluten Free',
+                           'Non Vegeterian', 'High Protein Non Vegetarian', 'Gluten Free',
                            'Sugar Free Diet']
     return dietary_preferences.index(user_diet)
 
