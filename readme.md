@@ -6,15 +6,18 @@ AI Kitchen for India is an innovative project that leverages the power of machin
 
 - **Personalized Recipe Recommendations**: Get recipe suggestions tailored to your dietary preferences and taste.
 - **KNN Algorithm**: Utilizes the K-Nearest Neighbors algorithm for accurate and efficient recipe matching.
-- **User-Friendly Interface**: Easy-to-navigate interface built with Streamlit, ensuring a seamless user experience.
+- **User-Friendly Interface**: An easy-to-navigate interface built with Streamlit ensures a seamless user experience.
 
+
+#### if app is gone to sleep due to inactivity click on Yes, get this app back up! 
 ## Live on :- https://ai-kitchen-for-india-by-ramchandra.streamlit.app/
+
 
 [![Video preview ](https://img.youtube.com/vi/tdR9DvqV99s/0.jpg)](https://www.youtube.com/watch?v=tdR9DvqV99s)
 
 ## Installation
 
-To set up the project environment, you will need Python and pip installed on your system. Follow the steps below to install the required libraries:
+You will need Python and pip installed on your system to set up the project environment. Follow the steps below to install the required libraries:
 
 1. Clone the repository to your local machine:
 
@@ -32,7 +35,7 @@ pip install streamlit numpy pandas scikit-learn
 
 ## Running the Project
 
-After installing the necessary packages, you can run the project using Streamlit. Execute the following command in your terminal:
+After you install the necessary packages, you can go ahead and run the project using Streamlit. Execute the following command in your terminal:
 
 ```console
 streamlit run app.py
@@ -42,4 +45,4 @@ This command will start the Streamlit server, and you should see a URL in your t
 
 ## About K-Nearest Neighbors (KNN)
 
-The K-Nearest Neighbors algorithm is a simple, yet powerful machine learning technique used for classification and regression. In this project, KNN is utilized to recommend recipes based on the similarity of user preferences. By analyzing the features of various recipes and comparing them to the user's input, the algorithm identifies the most similar recipes to suggest.
+The K-Nearest Neighbors algorithm is a simple, yet powerful machine-learning technique used for classification and regression. In this project, KNN is utilized to recommend recipes based on the similarity of user preferences. By analyzing the features of various recipes and comparing them to the user's input, the algorithm identifies the most similar recipes to suggest.
